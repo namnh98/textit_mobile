@@ -1,0 +1,12 @@
+export { default as IC_TabOverView } from './IC_Tab_OverView.png';
+export { default as IC_Calendar } from './IC_Tab_Calendar.png';
+export { default as IC_Report } from './IC_Tab_Report.png';
+export { default as IC_Setting } from './IC_Tab_Setting.png';
+export { default as IC_Back } from './IC_ArrowBack.png';
+export * from './onboarding';
+export { default as IC_People } from './IC_People.png';
+export { default as IC_Mail } from './IC_Mail.png';
+export { default as IC_Lock } from './IC_Lock.png';
+export { default as IC_Eye } from './IC_Eye.png';
+export { default as IC_EyeSplash } from './IC_EyeSplash.png';
+export * from './brand';

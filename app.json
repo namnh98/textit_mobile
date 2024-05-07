@@ -1,0 +1,7 @@
+{
+  "name": "template",
+  "displayName": "template",
+  "experiments": {
+    "tsconfigPaths": true
+  }
+}
